@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../batch89/.idea/batch89.iml" filepath="$PROJECT_DIR$/../batch89/.idea/batch89.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../batch89.github/.idea/batch89.github.iml" filepath="$PROJECT_DIR$/../batch89.github/.idea/batch89.github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/techopy.iml" filepath="$PROJECT_DIR$/.idea/techopy.iml" />
+    </modules>
+  </component>
+</project>
