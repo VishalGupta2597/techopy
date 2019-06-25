@@ -1,5 +1,9 @@
-try:
-    print("Student Result : ")
+#try:
+Hin, Eng, Maths, Phy, Che=input("Enter the marks").split(",")
+print(Hin, Eng, Maths, Phy, Che)
+print(int(Hin) + int(Eng) + int(Maths) + int(Phy) + int(Che))
+
+"""print("Student Result : ")
     Hin = int(input("Enter the marks of Hindi : "))
     if Hin < 0 or Hin > 100:
         raise ValueError("Marks cannot be more than zero")
@@ -20,8 +24,6 @@ try:
     if 0 < Che > 100:
         raise ValueError("Marks cannot be less than zero and more than Hundred ")
 
-
-
     total_marks = Hin + Eng + Maths + Phy + Che
     print("Total marks obtained by Student ", total_marks)
 
@@ -41,11 +43,11 @@ try:
 except ValueError as error:
     print("You cannot enter invalid input --> This error is : ", error)
 
-except Exception as e:  # for unknown error and this error is brambhastra
+except Exception as e:  # for unknown error
     print("This error is called : ", e)
 
 finally:
-    print("Thanks for the result.")
+    print("Thanks for the result.")"""
 
 
 
